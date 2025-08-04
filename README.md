@@ -52,4 +52,4 @@ Ao final, duas imagens foram geradas: uma versão em tons de cinza e outra em pr
 
 ---
 
-👤 Conecte-se comigo no [LinkedIn]([https://www.linkedin.com/in/SEULINKAQUI/](https://www.linkedin.com/in/pedro-rodrigues-salom%C3%A3o-55a0ab310/)
+👤 Conecte-se comigo no [LinkedIn]([https://www.linkedin.com/in/pedro-rodrigues-salom%C3%A3o-55a0ab310/])
